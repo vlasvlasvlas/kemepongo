@@ -1,0 +1,18 @@
+# Entorno y Secretos del Backend
+backend/venv/
+backend/__pycache__/
+*.pyc
+backend/.env
+
+# Dependencias y Build del Frontend
+frontend/node_modules/
+frontend/dist/
+.env.local
+.env.*.local
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Documentación interna
+docs/
